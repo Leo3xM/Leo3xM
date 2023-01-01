@@ -15,4 +15,4 @@
     <img align="center" height="30" width="30" alt="bubble.io-icon" src="https://github.com/Leo3xM/Leo3xM/blob/main/bubble.io%20logo.png">
    </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leo3xM/Leo3xM/blob/output/github-contribution-grid-snake.svg)
